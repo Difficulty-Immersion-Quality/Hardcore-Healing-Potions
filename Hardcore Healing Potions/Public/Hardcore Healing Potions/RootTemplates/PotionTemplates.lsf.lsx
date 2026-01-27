@@ -154,7 +154,7 @@
 					<attribute id="PhysicsTemplate" type="FixedString" value="1e544fc6-8aec-a600-8071-c7d29e6d0fa5" />
 					<attribute id="Stats" type="FixedString" value="OBJ_Potion_Healing_Greater" />
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="h243d6f2eg13efg4a21g8a69gfb3298ed5362" version="1" />
-					<attribute id="TechnicalDescriptionParams" type="LSString" value="RegainHitPoints(2d4);;RegainHitPoints(2)" />
+					<attribute id="TechnicalDescriptionParams" type="LSString" value="RegainHitPoints(2d4);RegainHitPoints(2)" />
 					<attribute id="TreasureOnDestroy" type="bool" value="True" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="103f27e3-226b-2ce9-e710-e1e81f01b34b" />
