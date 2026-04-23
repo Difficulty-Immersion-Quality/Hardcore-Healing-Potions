@@ -16,7 +16,9 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="8e660fd9-489d-42ff-a762-e4392e826666" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="e3541832-307a-4e23-49fc-a72544220d42" />
 					<attribute id="Stats" type="FixedString" value="OBJ_Potion_Healing" />
+					<!-- <attribute id="TechnicalDescription" type="TranslatedString" handle="hd758f907g0b31g4e74ga4d4g4e8dc916716c" version="1" /> -->
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="h243d6f2eg13efg4a21g8a69gfb3298ed5362" version="1" />
+					<!-- <attribute id="TechnicalDescriptionParams" type="LSString" value="" /> -->
 					<attribute id="TechnicalDescriptionParams" type="LSString" value="RegainHitPoints(1d4);RegainHitPoints(1)" />
 					<attribute id="TreasureOnDestroy" type="bool" value="True" />
 					<attribute id="Type" type="FixedString" value="item" />
@@ -153,7 +155,9 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="8e660fd9-489d-42ff-a762-e4392e826666" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="1e544fc6-8aec-a600-8071-c7d29e6d0fa5" />
 					<attribute id="Stats" type="FixedString" value="OBJ_Potion_Healing_Greater" />
+					<!-- <attribute id="TechnicalDescription" type="TranslatedString" handle="hb6759ce9g91e9g48d0gb248g3e7e0d89167c" version="1" /> -->
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="h243d6f2eg13efg4a21g8a69gfb3298ed5362" version="1" />
+					<!-- <attribute id="TechnicalDescriptionParams" type="LSString" value="" /> -->
 					<attribute id="TechnicalDescriptionParams" type="LSString" value="RegainHitPoints(2d4);RegainHitPoints(2)" />
 					<attribute id="TreasureOnDestroy" type="bool" value="True" />
 					<attribute id="Type" type="FixedString" value="item" />
@@ -290,7 +294,9 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="8e660fd9-489d-42ff-a762-e4392e826666" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="751f98d7-624b-23b3-1ec5-3b95745b4df3" />
 					<attribute id="Stats" type="FixedString" value="OBJ_Potion_Healing_Superior" />
+					<!-- <attribute id="TechnicalDescription" type="TranslatedString" handle="h7a080ea0g4f06g47c1gb5acg3a30103e8676" version="1" /> -->
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="h243d6f2eg13efg4a21g8a69gfb3298ed5362" version="1" />
+					<!-- <attribute id="TechnicalDescriptionParams" type="LSString" value="" /> -->
 					<attribute id="TechnicalDescriptionParams" type="LSString" value="RegainHitPoints(4d4);RegainHitPoints(4)" />
 					<attribute id="TreasureOnDestroy" type="bool" value="True" />
 					<attribute id="Type" type="FixedString" value="item" />
@@ -427,7 +433,9 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="8e660fd9-489d-42ff-a762-e4392e826666" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="26cfdec8-6eff-ed79-7d50-a5c40bfe0cb3" />
 					<attribute id="Stats" type="FixedString" value="OBJ_Potion_Healing_Supreme" />
+					<!-- <attribute id="TechnicalDescription" type="TranslatedString" handle="h26289dbdg9b04g4f4dgaa93g54e83767896b" version="1" /> -->
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="h243d6f2eg13efg4a21g8a69gfb3298ed5362" version="1" />
+					<!-- <attribute id="TechnicalDescriptionParams" type="LSString" value="" /> -->
 					<attribute id="TechnicalDescriptionParams" type="LSString" value="RegainHitPoints(5d4);RegainHitPoints(10)" />
 					<attribute id="TreasureOnDestroy" type="bool" value="True" />
 					<attribute id="Type" type="FixedString" value="item" />
